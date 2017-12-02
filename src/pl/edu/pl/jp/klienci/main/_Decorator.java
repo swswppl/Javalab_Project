@@ -9,9 +9,7 @@ public abstract class _Decorator {
 			
 			 int kwota = InwestycjaHelper.wczytajKwote();
 			 String nazwa_inwestycji = InwestycjaHelper.nazwa_to_kwota(kwota);
-			 
 			 InwestycjaHelper.wyswietl(kwota, nazwa_inwestycji);
-			 
 		}
 		
 }
