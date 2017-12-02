@@ -6,9 +6,11 @@ import java.util.Scanner;
 
 public abstract class _Decorator {
 
+		private static Scanner scanner;
+
 		public static void main(String[] args) {
 		
-		 Scanner scanner = new Scanner(System.in);
+		 scanner = new Scanner(System.in);
 		 
 		 System.out.print("Podaj kwote do zainwestowania: ");
 		  int kwota = scanner.nextInt();
