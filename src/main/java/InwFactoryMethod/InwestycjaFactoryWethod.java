@@ -1,5 +1,5 @@
-package pk.edu.pl.InwFactoryMethod;
-import pl.edu.pl.jp.inwestycje.*;
+package main.java.InwFactoryMethod;
+import main.java.inwestycje.*;
 public class InwestycjaFactoryWethod {
 	
 	public InwestycjaFactoryWethod() {}

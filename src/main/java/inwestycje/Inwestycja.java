@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pl.edu.pl.jp.inwestycje;
+package main.java.inwestycje;
 //import pk.edu.pl.InwFactoryMethod;
 /**
  * @author dell

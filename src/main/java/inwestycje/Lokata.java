@@ -1,7 +1,7 @@
 /**
  * 
  */
-package pl.edu.pl.jp.inwestycje;
+package main.java.inwestycje;
 
 /**
  * @author dell

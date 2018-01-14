@@ -1,7 +1,7 @@
-package pl.edu.pl.jp.klienci.main;
+package main.java.klienci.main;
 //import inwestycje.lokata;
-import pk.edu.pl.InwFactoryMethod.InwestycjaFactoryWethod;
-import pl.edu.pl.jp.inwestycje.*;
+import main.java.InwFactoryMethod.InwestycjaFactoryWethod;
+import main.java.inwestycje.*;
 //import pk.dydakt.to.dp.c.gof.factorymethod
 public class _Factory_Method {
 

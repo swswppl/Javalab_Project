@@ -1,4 +1,4 @@
-package pl.edu.pl.jp.inwestycje;
+package main.java.inwestycje;
 
 public class Forex extends Inwestycja {
 	

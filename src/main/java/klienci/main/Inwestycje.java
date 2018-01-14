@@ -1,9 +1,9 @@
-package pl.edu.pl.jp.klienci.main;
+package main.java.klienci.main;
 
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
-import pl.edu.pl.jp.inwestycje.*;
+import main.java.inwestycje.*;
 public class Inwestycje {
 
 

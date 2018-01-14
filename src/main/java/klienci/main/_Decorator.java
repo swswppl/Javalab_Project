@@ -1,6 +1,6 @@
-package pl.edu.pl.jp.klienci.main;
+package main.java.klienci.main;
 
-import pl.edu.pl.jp.inwestycje.*;
+import main.java.inwestycje.*;
 
 import java.util.Scanner;
 
